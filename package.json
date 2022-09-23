@@ -1,0 +1,28 @@
+{
+  "name": "test_migrate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://felipe_gaitan@bitbucket.org/felipe_gaitan/test_migrate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/felipe_gaitan/test_migrate/issues"
+  },
+  "homepage": "https://bitbucket.org/felipe_gaitan/test_migrate#readme",
+  "dependencies": {
+    "cruelty": "^6.6.8",
+    "functional-red-black-tree": "^1.0.1",
+    "hash-sum": "^2.0.0",
+    "pink": "^0.0.6",
+    "twice": "^0.2.0",
+    "crazy": "^1.0.0",
+    "vue": "^3.2.39"
+  }
+}
