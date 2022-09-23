@@ -1,0 +1,7 @@
+{
+    "require": {
+        "publishpress/publishpress-instance-protection": "^1.0",
+        "benestar/asparagus": "^0.4.2",
+        "doctrine/cache": "^2.2"
+    }
+}

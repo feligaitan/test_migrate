@@ -25,6 +25,8 @@ dist/
 
 # JetBrains IDE
 .idea/
+vendor/
+package-lock.json
 
 # Unit test reports
 TEST*.xml
